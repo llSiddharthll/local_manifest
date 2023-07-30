@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="device/xiaomi/fleur" name="$username/android_device_xiaomi_fleur" remote="github" revision="thirteen" />
+<project path="vendor/xiaomi/fleur" name="Nem1xx/proprietary_vendor_xiaomi_ims-fleur" remote="github" revision="twelve" /> 
+ 
+</manifest>
